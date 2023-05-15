@@ -16,3 +16,4 @@ def strike(text:str):
 
 
 strike("Java is the best programming language in the world!!")
+strike ("Mojo is still popular programming language in the world!!")
